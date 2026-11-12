@@ -1,0 +1,6 @@
+{
+  "name": "KFC - Finger Lickin' Good",
+  "description": "An immersive KFC shopping and delivery experience featuring legendary buckets, crispy chicken meals, custom combos, order tracking, and JARVIS assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
